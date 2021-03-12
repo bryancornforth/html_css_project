@@ -1,0 +1,14 @@
+.jumbotron{
+        background-image: url('https://pro2-bar-s3-cdn-cf2.myportfolio.com/4604e89913c73d6d91f6d9f565cf05c7/36b07d3e-d4cc-4b29-8b80-66cadbeafc79_rw_1920.jpg?h=7319b3b5d91da45a2c6f64d6fc9e8322');
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        height: 100%;
+        text-align: center;
+        font-family: 'Lobster Two', cursive;
+}
+
+.container-fluid{
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+}
